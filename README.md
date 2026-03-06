@@ -209,22 +209,6 @@ Os notebooks geram:
 - Correlações **moderadas** (0.4 < |r| < 0.7): Relação presente mas não determinística
 - Correlações **fracas** (|r| < 0.4): Relação fraca ou negligenciável
 
-## Contribuindo
-
-Para contribuições:
-
-1. Faça um fork do repositório
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -am 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Envie um Pull Request
-
-### Diretrizes
-
-- Documente suas análises com markdown cells nos notebooks
-- Inclua visualizações quando apropriado
-- Valide resultados estatísticos (p-values, intervalos de confiança)
-- Atualize este README se adicionar novos notebooks ou dependências
 ---
 
 **Desenvolvido como projeto de Iniciação Científica**  
